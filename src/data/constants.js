@@ -131,7 +131,7 @@ export const Bio = {
         {
           name: "Git",
           image:
-            "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+            "https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg",
         },
         {
           name: "VS Code",
@@ -141,7 +141,7 @@ export const Bio = {
         {
           name: "Postman",
           image:
-            "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+            "https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png",
         },
       ],
     },
@@ -199,7 +199,7 @@ export const Bio = {
       description:
         "This project performs Market Basket Analysis using the Apriori algorithm to find associations between products in transaction data. The analysis helps in understanding customer purchase behaviors, which can be utilized to optimize product placement and promotional strategies.",
       image:
-        "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4a/AffinityAnalysis.png",
       tags: [
         "Jupyter Notebook",
         "GCP",
@@ -218,7 +218,7 @@ export const Bio = {
       description:
         "Developing a full-stack web application that allows users to upload data files and then can easily visualize on various types of graph. It also has Authentication and Authorization page and have used refine with which user can easily fix bugs in real time and also has a real time database management system",
         image:
-       "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+       "https://camo.githubusercontent.com/159e6313ec1c56d5b8eb7d0cdd3bda1f9461aa2bf6b5e099ef070f42b4bdf9af/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f64757865676f336a612f696d6167652f75706c6f61642f76313731303835333435362f676f6c64656e2d61646d696e2d64617368626f6172642f616b6939636378616574396e36336d37737066642e706e67",
       tags: ["React", "Refine", "Node Js", "Firebase"],
       category: "web app",
     },
@@ -229,7 +229,7 @@ export const Bio = {
       description:
         "Designed and developed a food delivery website project with help from youtube videos, with this app users can buys various categories of items and also has secure payment gateway using stripe. It also has Authentication and Authorization page and admin panel from which admin can change sstatus of delivery and realtime updation on user page.",
       image:
-        "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+        "https://private-user-images.githubusercontent.com/75434191/303660272-8ea7b83f-0eaa-4d97-b52b-20eb33bdbe52.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjAzNTIxODIsIm5iZiI6MTcyMDM1MTg4MiwicGF0aCI6Ii83NTQzNDE5MS8zMDM2NjAyNzItOGVhN2I4M2YtMGVhYS00ZDk3LWI1MmItMjBlYjMzYmRiZTUyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzA3VDExMzEyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM1OGJiN2QxZDViZjY1ZTBlNzZkNjc5ZDVkMDVmNzAxZDViM2UzZDcxN2U3OTllZjQ1ZjE1YzQ1NzUwYmU0MjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.sDYuOCwV74cWpwKq9m7mdWx5sYPn9EztKhGGur-fDSQ",
       tags: [
         "React Js",
         "MongoDb",
@@ -239,8 +239,8 @@ export const Bio = {
         "TypeScript",
       ],
       category: "web app",
-      github: "https://github.com/MmohammedH/mern-food-ordering-app-frontend",
-      webapp: "https://vexa-app.netlify.app/",
+      github: "https://github.com/MmohammedH/food-del",
+      webapp: "https://food-del-frontend-bklv.onrender.com",
     },
     {
       id: 5,
@@ -249,7 +249,7 @@ export const Bio = {
       description:
         "Preprocessed and manupulated the dataset to improve model accuracy, trained the model, and used flask for the project's front end. Achievements: Achieved an accuracy of 95% to accurately detect fraud credit crad transactions from dataset collected.",
       image:
-        "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
+        "https://user-images.githubusercontent.com/46643368/85223315-e89e7880-b3df-11ea-8ceb-4f212d5e8eab.png",
       tags: ["Python", "Pandas", "Excel", "Flask"],
       category: "machine learning",
       github: "https://github.com/MmohammedH/Fraud-Detection-System",
@@ -262,7 +262,7 @@ export const Bio = {
       description:
         "A Gemini clone made with React JS, GPT API, and Bootstrap. It is a chatbot where users can get answer to all questions. It also has memory where all past chats of users can be saved and can be retrieve whenever needed. And has a great UI/UX design which attracts users",
       image:
-        "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
+        "https://upload.wikimedia.org/wikipedia/en/d/da/Google_Gemini_Screenshot.png",
       tags: ["React Js", "API", "Responsive Design", "Node JS", "Vite"],
       category: "web app",
       github: "https://github.com/MmohammedH/gemini-clone",
@@ -275,7 +275,7 @@ export const Bio = {
       description:
         "It is a realtime weather react app which uses restful API provided openweather website. By one click user can find wether conditions like rainfall %, wind speed, etc. of any place",
       image:
-        "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
+        "https://camo.githubusercontent.com/997e199621ef283953c5b8fbe8be1a62523a7c0898e10c7b4eb4dd3c59cc2a5d/68747470733a2f2f692e696d6775722e636f6d2f6b48774b6d7a662e706e67",
       tags: ["React", "RestfulAPI", "Javascript", "CSS"],
       category: "web app",
       github: "https://github.com/MmohammedH/weather-app",
@@ -288,18 +288,10 @@ export const Bio = {
       description:
         "It is an innovative project designed to streamline attendance tracking by harnessing the power of OpenCV's cutting-edge facial recognition technology. This project leverages OpenCV's robust capabilities to detect and identify faces in real-time, making attendance management more efficient and convenient than ever before.",
       image:
-        "https://camo.githubusercontent.com/a8b3e1ebf26d4c95f75bc6671189a3590eb67eb8332d7c7452492990e731efb9/68747470733a2f2f77617265686f7573652d63616d6f2e696e67726573732e636d68312e707366686f737465642e6f72672f356137383335396561323762643261633232336437656662306639303831306437373930383436312f363837343734373037333361326632663633366336663735363432653637363937343638373536323735373336353732363336663665373436353665373432653633366636643266363137333733363537343733326633383339333633363339333232663332333433343333333033333339333832663333333636363330363533333636333032643331333336333632326433313331363533373264333833323335333832643334363433303633333936333635333136353334333133393265363736393636",
+        "https://user-images.githubusercontent.com/20295349/120059277-11a69f00-c06e-11eb-8ce1-59d16c28d026.jpg",
       tags: ["Python", "Keras", "OpenCV", "Streamlit", "Jupyter Notebook"],
       category: "machine learning",
       github: "https://github.com/MmohammedH/FaceID-Mark",
-      webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+      webapp: "https://github.com/MmohammedH/FaceID-Mark/blob/main/app.py",
     },
-  ];
-  
-  export const TimeLineData = [
-    { year: 2017, text: "Started my journey" },
-    { year: 2018, text: "Worked as a freelance developer" },
-    { year: 2019, text: "Founded JavaScript Mastery" },
-    { year: 2020, text: "Shared my projects with the world" },
-    { year: 2021, text: "Started my own platform" },
   ];

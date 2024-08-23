@@ -9,7 +9,7 @@ export const Bio = {
       "I am a pre-final year B.Tech CSE student, I excel at creating seamless user experiences, uncovering actionable insights from complex data, and ensuring robust network infrastructure, always eager to tackle new and exciting technological challenges.",
       github: "https://github.com/MmohammedH",
     resume:
-      "https://drive.google.com/file/d/MtHlARt0UCW9j_zGsIfeIAqeDH/view",
+      "https:https://drive.google.com/file/d/1ZDEyo3u5ce-tF5CqWitwwjkX5rMbXcQz/view",
     linkedin: "https://www.linkedin.com/in/mohammed-hussain-878273257/",
   };
   

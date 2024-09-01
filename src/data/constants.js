@@ -150,26 +150,6 @@ export const Bio = {
   export const experiences = [
     {
       id: 0,
-      img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fignite-intern&psig=AOvVaw14WxEV6Tg_LKFv3FDoRnTH&ust=1720325896274000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDx1sPHkYcDFQAAAAAdAAAAABAE",
-      role: "Web Developer Intern",
-      company: "Ignite Intern",
-      date: "Jun 2024 - Jul 2024",
-      desc: "I engineered a responsive personal portfolio and an interactive landing page with optimized UX/UI. Additionally, I developed a full-stack job portal and reverse-engineered a popular Gemini website to master modern web development techniques, significantly enhancing my technical skills and passion for the field.",
-      skills: [
-        "React",
-        "Node.js",
-        "Vercel",
-        "Express.js",
-        "Postman",
-        "HTML",
-        "JavaScript",
-        "CSS",
-        "MongoDB",
-      ],
-      doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
-    },
-    {
-      id: 1,
       img: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Logo_hype.png",
       role: "Data Analyst",
       company: "Hype Intern",

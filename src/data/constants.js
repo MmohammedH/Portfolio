@@ -204,12 +204,12 @@ export const Bio = {
     },
     {
       id: 2,
-      title: "Tomato",
+      title: "Seasons",
       date: "May 2022 - Jun 2024",
       description:
         "Designed and developed a food delivery website project with help from youtube videos, with this app users can buys various categories of items and also has secure payment gateway using stripe. It also has Authentication and Authorization page and admin panel from which admin can change sstatus of delivery and realtime updation on user page.",
       image:
-        "https://private-user-images.githubusercontent.com/75434191/303660272-8ea7b83f-0eaa-4d97-b52b-20eb33bdbe52.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjAzNTIxODIsIm5iZiI6MTcyMDM1MTg4MiwicGF0aCI6Ii83NTQzNDE5MS8zMDM2NjAyNzItOGVhN2I4M2YtMGVhYS00ZDk3LWI1MmItMjBlYjMzYmRiZTUyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzA3VDExMzEyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM1OGJiN2QxZDViZjY1ZTBlNzZkNjc5ZDVkMDVmNzAxZDViM2UzZDcxN2U3OTllZjQ1ZjE1YzQ1NzUwYmU0MjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.sDYuOCwV74cWpwKq9m7mdWx5sYPn9EztKhGGur-fDSQ",
+        ""
       tags: [
         "React Js",
         "MongoDb",

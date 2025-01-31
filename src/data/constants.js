@@ -184,7 +184,7 @@ export const Bio = {
       description:
         "Designed and developed a food delivery website project with help from youtube videos, with this app users can buys various categories of items and also has secure payment gateway using stripe. It also has Authentication and Authorization page and admin panel from which admin can change sstatus of delivery and realtime updation on user page.",
       image:
-        ""
+        "",
       tags: [
         "React Js",
         "MongoDb",
